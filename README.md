@@ -2,7 +2,7 @@
 
 Utilities to download and work with data you have uploaded to Tidepool.org
 
-##### THIS IS A PROOF OF CONCEPT AND HAS NOT BEEN EXTENSIVELY TESTED 
+##### THIS IS A PROOF OF CONCEPT AND HAS NOT BEEN EXTENSIVELY TESTED
 
 Utilities to:
 * download Tidepool.org data and to
@@ -10,7 +10,7 @@ Utilities to:
 
 ### Setup
 1. install node  
-2. `git clone https://github.com/alex-gonzalez/tidepool-utils.git tidepool utils`
+2. `git clone https://github.com/alex-gonzalez/tidepool-utils.git tidepool-utils`
 3. `cd tidepool-utils`
 4. `npm install`  
 
