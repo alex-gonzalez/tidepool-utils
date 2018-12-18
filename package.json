@@ -1,0 +1,33 @@
+{
+  "name": "tidepool-utils",
+  "version": "1.0.0",
+  "description": "Utilities for downloading and processing your tidepool.org data ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alex-gonzalez/tidepool-utils.git"
+  },
+  "keywords": [
+    "Tidepool.org",
+    "cgm",
+    "insulin",
+    "pump",
+    "utilities"
+  ],
+  "author": "alex-gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-gonzalez/tidepool-utils/issues"
+  },
+  "homepage": "https://github.com/alex-gonzalez/tidepool-utils#readme",
+  "dependencies": {
+    "moment": "^2.23.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
